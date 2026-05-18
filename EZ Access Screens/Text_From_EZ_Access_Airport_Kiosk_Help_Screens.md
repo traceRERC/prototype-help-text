@@ -406,7 +406,7 @@ ___
 For more Help, press the EZ Down arrow button. <br>
 To leave Help, press the EZ Help button.
 
-## Restrictions on Carry 
+## Restrictions on Carry Ons Page
 
 <img src="Screenshots(airport)/RestrictionsOnCarryOnsPage.png" alt="page with text about restrictions on carry-ons" width = "300">
 
